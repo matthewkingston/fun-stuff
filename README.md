@@ -4,7 +4,7 @@ Side projects and things which seemed like fun
 
 ## xo.q
 
-Play noughts and crosses against a 'perfect' (minmaxing) player - just run with 'q xo.q'
+Play noughts and crosses against a 'perfect' (minmaxing) player - just run with `q xo.q`
 
 ## BP.q
 
