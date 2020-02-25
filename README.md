@@ -1,6 +1,6 @@
 # fun-stuff
 
-Side projects and things which seemed like fun
+Side projects and fun things
 
 ## xo.q
 
