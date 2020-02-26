@@ -22,7 +22,8 @@ Built to practise IPC
 ### Features
 
 - All IPC asynchronous
-- All passwords are passed to hub as md5 encrypted - hub never sees passwords in plain text
+- All passwords are passed to hub as md5 encrypted - passwords not seen by hub in plain text
+- Hub saves user info between sessions
 
 ### Warning
 
