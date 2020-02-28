@@ -28,3 +28,7 @@ Built to practise IPC
 ### Warning
 
 No query parsing is implemented by hub - users have an open handle to the hub q process and can break things/spy on others if they really want. Trust your users!
+
+## [Prime Number Generators](primefun.q)
+
+Two (fairly well optimised) methods of generating all prime numbers up to a given number. Useful for coding challenges etc. 
