@@ -3,7 +3,7 @@ name: Bug report
 about: Testing Templates
 title: "[tst]"
 labels: bug, documentation
-assignees: matthewkingston
+assignees: matthewkingston, matthewkingston
 
 ---
 
