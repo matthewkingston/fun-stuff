@@ -1,6 +1,6 @@
 ---
 name: Template 2
-about: Testing Templates
+about: For a user question
 title: "[tst]"
 labels: bug, documentation
 assignees: matthewkingston, matthewkingston
