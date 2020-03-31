@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Template 2
 about: Testing Templates
 title: "[tst]"
 labels: bug, documentation
